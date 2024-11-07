@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111173536356",
+    "project_id": "logindemo-bae00",
+    "storage_bucket": "logindemo-bae00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111173536356:android:c822ba8f79f1069c402d71",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzksN2Th_iV1kmLQp_-X17PqW0ma2XBJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
